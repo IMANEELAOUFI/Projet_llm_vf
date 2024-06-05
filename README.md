@@ -99,4 +99,4 @@ ME,
 #### Zaoui Hanane
 
 ## Acknowledgements
-Special thanks to Sir Lotfi Lachak for his invaluable guidance and support throughout the development of this project.
+Special thanks to Sir Lotfi EL AACHAK for his invaluable guidance and support throughout the development of this project.
